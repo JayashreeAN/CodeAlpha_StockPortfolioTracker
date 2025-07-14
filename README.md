@@ -20,8 +20,11 @@ The final summary is saved in: `portfolio_summary.csv`
 
 ## Sample Output
 AAPL: 4 shares × ₹180 = ₹720
+
 TSLA: 2 shares × ₹250 = ₹500
+
 MSFT: 5 shares × ₹320 = ₹1600
+
 Total Investment: ₹2820
 
 ## Author
